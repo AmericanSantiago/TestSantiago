@@ -15,6 +15,16 @@
 		8CBE3DB51D184E33002EB61D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DB31D184E33002EB61D /* LaunchScreen.storyboard */; };
 		8CBE3DC01D184E33002EB61D /* TestSantiagoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBE3DBF1D184E33002EB61D /* TestSantiagoTests.m */; };
 		8CBE3DCB1D184E33002EB61D /* TestSantiagoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CBE3DCA1D184E33002EB61D /* TestSantiagoUITests.m */; };
+		8CBE3DE31D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DD91D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.14.png */; };
+		8CBE3DE41D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.38.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DDA1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.38.png */; };
+		8CBE3DE51D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.46.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DDB1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.46.png */; };
+		8CBE3DE61D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.54.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DDC1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.54.png */; };
+		8CBE3DE71D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.01.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DDD1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.01.png */; };
+		8CBE3DE81D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.17.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DDE1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.17.png */; };
+		8CBE3DE91D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.30.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DDF1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.30.png */; };
+		8CBE3DEA1D185529002EB61D /* 屏幕快照 2016-06-15 下午6.05.58.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DE01D185529002EB61D /* 屏幕快照 2016-06-15 下午6.05.58.png */; };
+		8CBE3DEB1D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.14.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DE11D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.14.png */; };
+		8CBE3DEC1D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.47.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CBE3DE21D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.47.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,16 @@
 		8CBE3DC61D184E33002EB61D /* TestSantiagoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestSantiagoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CBE3DCA1D184E33002EB61D /* TestSantiagoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestSantiagoUITests.m; sourceTree = "<group>"; };
 		8CBE3DCC1D184E33002EB61D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CBE3DD91D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午4.28.14.png"; sourceTree = "<group>"; };
+		8CBE3DDA1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.38.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午4.28.38.png"; sourceTree = "<group>"; };
+		8CBE3DDB1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.46.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午4.28.46.png"; sourceTree = "<group>"; };
+		8CBE3DDC1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.54.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午4.28.54.png"; sourceTree = "<group>"; };
+		8CBE3DDD1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午4.29.01.png"; sourceTree = "<group>"; };
+		8CBE3DDE1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午4.29.17.png"; sourceTree = "<group>"; };
+		8CBE3DDF1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.30.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午4.29.30.png"; sourceTree = "<group>"; };
+		8CBE3DE01D185529002EB61D /* 屏幕快照 2016-06-15 下午6.05.58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午6.05.58.png"; sourceTree = "<group>"; };
+		8CBE3DE11D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午6.06.14.png"; sourceTree = "<group>"; };
+		8CBE3DE21D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "屏幕快照 2016-06-15 下午6.06.47.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +121,7 @@
 		8CBE3DA41D184E33002EB61D /* TestSantiago */ = {
 			isa = PBXGroup;
 			children = (
+				8CBE3DD81D185529002EB61D /* 截图 */,
 				8CBE3DA81D184E33002EB61D /* AppDelegate.h */,
 				8CBE3DA91D184E33002EB61D /* AppDelegate.m */,
 				8CBE3DAB1D184E33002EB61D /* ViewController.h */,
@@ -138,6 +159,23 @@
 				8CBE3DCC1D184E33002EB61D /* Info.plist */,
 			);
 			path = TestSantiagoUITests;
+			sourceTree = "<group>";
+		};
+		8CBE3DD81D185529002EB61D /* 截图 */ = {
+			isa = PBXGroup;
+			children = (
+				8CBE3DD91D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.14.png */,
+				8CBE3DDA1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.38.png */,
+				8CBE3DDB1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.46.png */,
+				8CBE3DDC1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.54.png */,
+				8CBE3DDD1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.01.png */,
+				8CBE3DDE1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.17.png */,
+				8CBE3DDF1D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.30.png */,
+				8CBE3DE01D185529002EB61D /* 屏幕快照 2016-06-15 下午6.05.58.png */,
+				8CBE3DE11D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.14.png */,
+				8CBE3DE21D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.47.png */,
+			);
+			path = "截图";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +281,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CBE3DEC1D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.47.png in Resources */,
+				8CBE3DE91D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.30.png in Resources */,
+				8CBE3DEB1D185529002EB61D /* 屏幕快照 2016-06-15 下午6.06.14.png in Resources */,
+				8CBE3DE51D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.46.png in Resources */,
+				8CBE3DEA1D185529002EB61D /* 屏幕快照 2016-06-15 下午6.05.58.png in Resources */,
+				8CBE3DE81D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.17.png in Resources */,
 				8CBE3DB51D184E33002EB61D /* LaunchScreen.storyboard in Resources */,
+				8CBE3DE61D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.54.png in Resources */,
+				8CBE3DE41D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.38.png in Resources */,
+				8CBE3DE71D185529002EB61D /* 屏幕快照 2016-06-15 下午4.29.01.png in Resources */,
 				8CBE3DB21D184E33002EB61D /* Assets.xcassets in Resources */,
 				8CBE3DB01D184E33002EB61D /* Main.storyboard in Resources */,
+				8CBE3DE31D185529002EB61D /* 屏幕快照 2016-06-15 下午4.28.14.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -496,6 +544,7 @@
 				8CBE3DD11D184E33002EB61D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8CBE3DD21D184E33002EB61D /* Build configuration list for PBXNativeTarget "TestSantiagoTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +553,7 @@
 				8CBE3DD41D184E33002EB61D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8CBE3DD51D184E33002EB61D /* Build configuration list for PBXNativeTarget "TestSantiagoUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +562,7 @@
 				8CBE3DD71D184E33002EB61D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

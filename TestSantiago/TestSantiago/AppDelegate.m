@@ -20,6 +20,8 @@
     NSLog(@"你是个小碧池");
 
     
+    NSLog(@"dabichi123");
+    
     
     return YES;
 }
